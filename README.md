@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**Alexander-TI/Alexander-TI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <table width="100%">
+    <tr>
+      <td width="25%" valign="top">
+        Kevin Roldàn Lopera 
+        <p>Contenido de la columna izquierda.</p>
+        <p>Más contenido aquí...</p>
+      </td>
+      <td width="75%" valign="left">
+        <h2>Columna Derecha</h2>
+        <p>Contenido de la columna derecha.</p>
+        <p>Más contenido aquí también...</p>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
